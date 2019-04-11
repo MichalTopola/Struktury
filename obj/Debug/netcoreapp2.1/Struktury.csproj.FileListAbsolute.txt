@@ -1,0 +1,11 @@
+C:\Users\MT\source\repos\Struktury\Struktury\bin\Debug\netcoreapp2.1\Struktury.deps.json
+C:\Users\MT\source\repos\Struktury\Struktury\bin\Debug\netcoreapp2.1\Struktury.runtimeconfig.json
+C:\Users\MT\source\repos\Struktury\Struktury\bin\Debug\netcoreapp2.1\Struktury.runtimeconfig.dev.json
+C:\Users\MT\source\repos\Struktury\Struktury\bin\Debug\netcoreapp2.1\Struktury.dll
+C:\Users\MT\source\repos\Struktury\Struktury\bin\Debug\netcoreapp2.1\Struktury.pdb
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.csprojAssemblyReference.cache
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.csproj.CoreCompileInputs.cache
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.AssemblyInfoInputs.cache
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.AssemblyInfo.cs
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.dll
+C:\Users\MT\source\repos\Struktury\Struktury\obj\Debug\netcoreapp2.1\Struktury.pdb
